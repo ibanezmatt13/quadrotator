@@ -1,3 +1,6 @@
+# warning, this software is in its very early stages. It lacks any real validation and is not recomended for real FPV use
+
+
 import math
 import time
 import socket
